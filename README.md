@@ -1,1 +1,1 @@
-# laboratornaya_rabota_11
+# Лабораторная работа 11 - JavaFX и многопоточность
